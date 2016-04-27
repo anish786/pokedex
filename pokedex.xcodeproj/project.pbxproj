@@ -12,6 +12,7 @@
 		EEB297021CD03DD200F27BD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEB297001CD03DD200F27BD7 /* Main.storyboard */; };
 		EEB297041CD03DD200F27BD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEB297031CD03DD200F27BD7 /* Assets.xcassets */; };
 		EEB297071CD03DD200F27BD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEB297051CD03DD200F27BD7 /* LaunchScreen.storyboard */; };
+		EEB2970F1CD03F1700F27BD7 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = EEB2970E1CD03F1700F27BD7 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EEB297031CD03DD200F27BD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EEB297061CD03DD200F27BD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EEB297081CD03DD200F27BD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEB2970E1CD03F1700F27BD7 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				EEB296FE1CD03DD200F27BD7 /* ViewController.swift */,
 				EEB297001CD03DD200F27BD7 /* Main.storyboard */,
 				EEB297031CD03DD200F27BD7 /* Assets.xcassets */,
+				EEB2970E1CD03F1700F27BD7 /* pokemon.csv */,
 				EEB297051CD03DD200F27BD7 /* LaunchScreen.storyboard */,
 				EEB297081CD03DD200F27BD7 /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			files = (
 				EEB297071CD03DD200F27BD7 /* LaunchScreen.storyboard in Resources */,
 				EEB297041CD03DD200F27BD7 /* Assets.xcassets in Resources */,
+				EEB2970F1CD03F1700F27BD7 /* pokemon.csv in Resources */,
 				EEB297021CD03DD200F27BD7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
